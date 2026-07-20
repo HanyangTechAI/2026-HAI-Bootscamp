@@ -1,2 +1,1 @@
-print("Hello Docker")
-print("Success")
+print("권택영 바보")
